@@ -1,0 +1,31 @@
+Project_ID,Project_Name,Road_Code,County,Start_Date,End_Date,Project_Status,Budget_KES,Actual_Cost_KES,Contractor_ID,Project_Manager,Funding_Source,Road_Length_KM,Project_Type,Completion_Percentage
+PRJ7392,Highway Upgrade 1,RD5943,Eldoret,2026-02-07 0:00:00,2025-11-28 0:00:00,Delayed,187816470,209824302,CTR8274,David Kiptoo,World Bank,11.31,Expansion,71
+PRJ3209,Highway Upgrade 2,RD4320,Kisumu,2026-09-01 0:00:00,2025-10-11 0:00:00,Ongoing,156362719,321462318,CTR4538,John Mwangi,Government,43.48,Maintenance,63
+PRJ1531,Highway Upgrade 3,RD1671,Nakuru,2022-11-06 0:00:00,2026-09-07 0:00:00,Completed,150135984,396741285,CTR9505,John Mwangi,PPP,38.43,Expansion,78
+PRJ5091,Highway Upgrade 4,RD6266,Nakuru,2026-08-28 0:00:00,2025-01-14 0:00:00,Delayed,56081771,191906790,CTR3575,John Mwangi,Government,45.37,Expansion,53
+PRJ2530,Highway Upgrade 5,RD1927,Kisumu,2023-10-03 0:00:00,2024-01-30 0:00:00,Completed,490612444,337501169,CTR4428,David Kiptoo,World Bank,24.66,Rehabilitation,63
+PRJ5027,Highway Upgrade 6,RD7574,Kisumu,2022-12-01 0:00:00,2024-09-24 0:00:00,Delayed,259278751,157704643,CTR3556,Sarah Otieno,Government,21.97,Maintenance,66
+PRJ3534,Highway Upgrade 7,RD4439,Kisumu,2025-12-30 0:00:00,2026-03-24 0:00:00,Completed,206893271,121565966,CTR4008,David Kiptoo,World Bank,53.21,Maintenance,60
+PRJ7251,Highway Upgrade 8,RD2519,Nakuru,2024-07-28 0:00:00,2026-09-06 0:00:00,Delayed,133049544,276234749,CTR1691,David Kiptoo,PPP,93.84,Expansion,26
+PRJ6417,Highway Upgrade 9,RD6597,Nairobi,2022-07-11 0:00:00,2026-11-30 0:00:00,Completed,356922932,216286976,CTR9790,Sarah Otieno,World Bank,121.65,Rehabilitation,90
+PRJ7271,Highway Upgrade 10,RD2137,Mombasa,2026-01-09 0:00:00,2024-09-06 0:00:00,Delayed,485794330,334247885,CTR7658,John Mwangi,PPP,75.6,Rehabilitation,43
+PRJ9216,Highway Upgrade 11,RD5493,Nakuru,2023-06-27 0:00:00,2024-07-26 0:00:00,Ongoing,345816178,264454688,CTR4499,John Mwangi,PPP,88.61,Maintenance,76
+PRJ2828,Highway Upgrade 12,RD1215,Nairobi,2025-02-25 0:00:00,2024-07-29 0:00:00,Ongoing,455033843,434779537,CTR3091,Sarah Otieno,Government,86.43,Maintenance,81
+PRJ9265,Highway Upgrade 13,RD5884,Kisumu,2022-06-12 0:00:00,2024-09-18 0:00:00,Ongoing,254419849,164963554,CTR4231,John Mwangi,World Bank,108.85,Rehabilitation,34
+PRJ5259,Highway Upgrade 14,RD4504,Nakuru,2025-01-28 0:00:00,2025-03-23 0:00:00,Completed,353716793,362773036,CTR4942,John Mwangi,World Bank,108.13,Maintenance,80
+PRJ5989,Highway Upgrade 15,RD6108,Mombasa,2024-11-03 0:00:00,2025-12-06 0:00:00,Ongoing,179109442,189468363,CTR8058,John Mwangi,PPP,102.14,Maintenance,10
+PRJ3313,Highway Upgrade 16,RD9271,Kisumu,2024-04-04 0:00:00,2026-11-06 0:00:00,Delayed,409852576,45712437,CTR2870,John Mwangi,Government,197.87,Maintenance,14
+PRJ6277,Highway Upgrade 17,RD9575,Mombasa,2025-09-05 0:00:00,2025-11-21 0:00:00,Delayed,448823368,30614931,CTR6090,Sarah Otieno,PPP,62.34,Rehabilitation,91
+PRJ9217,Highway Upgrade 18,RD9649,Eldoret,2023-05-26 0:00:00,2026-06-02 0:00:00,Delayed,407732260,176585831,CTR4092,Sarah Otieno,PPP,158.15,Maintenance,29
+PRJ9557,Highway Upgrade 19,RD7683,Eldoret,2024-08-06 0:00:00,2026-07-03 0:00:00,Completed,395005807,151255842,CTR3849,John Mwangi,PPP,198.44,Expansion,90
+PRJ5777,Highway Upgrade 20,RD1579,Mombasa,2025-11-05 0:00:00,2025-08-10 0:00:00,Completed,101048179,420350961,CTR8888,John Mwangi,PPP,78.27,Rehabilitation,79
+PRJ1648,Highway Upgrade 21,RD4409,Nakuru,2025-05-06 0:00:00,2025-01-07 0:00:00,Completed,61062913,233478823,CTR8554,John Mwangi,World Bank,41.25,Maintenance,87
+PRJ3988,Highway Upgrade 22,RD4423,Nakuru,2025-08-22 0:00:00,2026-12-01 0:00:00,Completed,125881497,296649856,CTR1018,David Kiptoo,PPP,47.47,Maintenance,36
+PRJ2910,Highway Upgrade 23,RD2717,Eldoret,2026-10-21 0:00:00,2026-04-20 0:00:00,Delayed,315690950,392935778,CTR4983,Sarah Otieno,Government,199.46,Rehabilitation,88
+PRJ3908,Highway Upgrade 24,RD1639,Nairobi,2023-09-10 0:00:00,2024-10-21 0:00:00,Completed,143109245,185688846,CTR5583,John Mwangi,World Bank,30.6,Maintenance,73
+PRJ8299,Highway Upgrade 25,RD4275,Kisumu,2025-01-11 0:00:00,2024-11-02 0:00:00,Completed,153540829,205325980,CTR3917,Sarah Otieno,Government,28.33,Maintenance,99
+PRJ8512,Highway Upgrade 26,RD3516,Nakuru,2026-05-12 0:00:00,2025-06-12 0:00:00,Completed,390363366,131830840,CTR3776,John Mwangi,PPP,183.79,Maintenance,69
+PRJ3118,Highway Upgrade 27,RD4255,Mombasa,2026-04-13 0:00:00,2025-08-04 0:00:00,Completed,201370292,113266763,CTR6889,Sarah Otieno,World Bank,102.66,Expansion,24
+PRJ2450,Highway Upgrade 28,RD5884,Eldoret,2025-08-13 0:00:00,2026-03-25 0:00:00,Ongoing,167827263,373918324,CTR4521,John Mwangi,World Bank,52.12,Rehabilitation,99
+PRJ9570,Highway Upgrade 29,RD5158,Eldoret,2026-12-27 0:00:00,2024-02-14 0:00:00,Completed,178873402,58178314,CTR5418,John Mwangi,Government,116.33,Expansion,69
+PRJ9669,Highway Upgrade 30,RD9326,Nakuru,2024-03-18 0:00:00,2026-03-13 0:00:00,Delayed,347954132,226587649,CTR2828,David Kiptoo,World Bank,22.22,Rehabilitation,87
